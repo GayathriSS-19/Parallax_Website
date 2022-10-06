@@ -18,7 +18,8 @@ html,body{
 
 .ptext{
     background-color: black;
-    position:absolute;
+    position:relative;
+    display: inline-block;
     top:50vh;
     left: 37vw;
     /* text-align: center; */
@@ -53,3 +54,8 @@ h2{
 section-light{
     background-color: #f4f4f4;
     color: #666;}
+
+.pimg2{
+    background-image: url("Images/image2.jpeg");
+    min-height: 400px;
+}
