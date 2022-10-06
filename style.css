@@ -1,0 +1,55 @@
+html,body{
+    height: 100vh;
+    margin:0px;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 1.8em;
+    color:#666;
+   
+}
+
+.pimg1{
+    background-image: url("Images/image1.jpeg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    width:100vw;
+    background-size: cover;
+}
+
+.ptext{
+    background-color: black;
+    position:absolute;
+    top:50vh;
+    left: 37vw;
+    /* text-align: center; */
+    padding:24px 65px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-family: 'Abyssinica SIL', serif;
+    font-size: 28px;
+}
+
+.textBg{
+    color: white;
+    text-align: center;
+}
+
+
+.pimg1,.pimg2,.pimg3{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+h2{
+    text-align: center;
+}
+
+.section{
+    padding: 50px 80px;
+    text-align: center;
+}
+section-light{
+    background-color: #f4f4f4;
+    color: #666;}
