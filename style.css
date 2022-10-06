@@ -59,3 +59,8 @@ section-light{
     background-image: url("Images/image2.jpeg");
     min-height: 400px;
 }
+
+.pimg3{
+    background-image: url("Images/image3.jpeg");
+    min-height: 500px;
+}
