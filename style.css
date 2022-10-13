@@ -23,7 +23,7 @@ html,body{
     display: inline-block;
     top:50vh;
     left: 37vw;
-    /* text-align: center; */
+    text-align: center;
     padding:24px 65px;
     border-radius: 4px;
     text-transform: uppercase;
