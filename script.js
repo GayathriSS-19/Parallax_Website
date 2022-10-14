@@ -1,3 +1,3 @@
 function loadpage(){
-  window.location="index.html"
+  window.location="index.html";
 }
