@@ -81,3 +81,21 @@ section-light{
     background-image: url("Images/image3.jpeg");
     min-height: 500px;
 }
+
+.btn-link{
+    text-decoration: none;
+    color:bisque;
+    background-color: azure;
+}
+
+a{
+    background-color: azure;
+}
+
+.nav-item a{
+    margin: 49px;
+    /* background-color:rgb(34, 80, 80); */
+    background-color: black;
+    color: rgb(124, 136, 136);
+    border: none;
+}
